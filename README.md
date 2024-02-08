@@ -1,59 +1,34 @@
-### Hi there 👋
+### Bienvenidos a mi Github 👋
+## Acerca de mí 🧑‍💻
+Soy un apasionado desarrollador de software con una sólida formación en programación. Mi enfoque es crear soluciones eficientes y efectivas para los desafíos tecnológicos. Disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
 
-# [Tu Nombre] - Curriculum Vitae
+## Proyectos Destacados ✨
 
-## Acerca de mí
+### [APIMOVI]🎥🍿
 
-Breve descripción sobre quién eres y cuáles son tus habilidades principales.
+Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
+### [FerreteriaUnicaes]
 
-## Proyectos Destacados
+Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas, 
 
-### [Nombre del Proyecto 1]
+## Habilidades Técnicas 📃
 
-Descripción breve del proyecto, tus responsabilidades y las tecnologías utilizadas.
+- Desarrollo con frameworks como Laravel, ASP.NET.
+- Desarrollo con lenguajes como Java, Php, Js, C#.
+- Conocimiento en  GitHub.
+- Idioma Inglés Básico
+- Conocimiento en metodologías de desarrollo ágil como Scrum.
+- Conocimiento básico en sistemas Linux
 
-### [Nombre del Proyecto 2]
 
-Descripción breve del proyecto, tus responsabilidades y las tecnologías utilizadas.
+## Educación 🎓
 
-## Habilidades Técnicas
-
-- Lista de habilidades técnicas, como lenguajes de programación, herramientas, y frameworks.
-
-## Experiencia Laboral
-
-### [Nombre de la Empresa] - [Cargo]
-
-- Descripción de tus responsabilidades y logros.
-
-### [Nombre de la Empresa] - [Cargo]
-
-- Descripción de tus responsabilidades y logros.
-
-## Educación
-
-### [Universidad Catolica de El Salvador] - [Ingeneria en desarrollo de software]
+### [Universidad Católica de El Salvador] - [Ingeniería en Desarrollo de Software]
 
 - 2020-2024.
 
-## Contacto
+## Contacto 📞
 
-- Correo electrónico: [tu@email.com]
-- LinkedIn: [Perfil de LinkedIn]
+- Correo electrónico: [navarropaolo2020@gmail.com]
+- LinkedIn: [www.linkedin.com/in/paolo-isaac-navarro-rosales-2024nr]
 
-
-
-<!--
-**PaoloNavarro/PaoloNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
