@@ -7,6 +7,7 @@ Soy un apasionado desarrollador de software con una sólida formación en progra
 ### [APIMOVI]🎥🍿
 
 Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
+![Foto](<https://i.ibb.co/4dDN8HN/1.png)
 ### [FerreteriaUnicaes]
 
 Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.
