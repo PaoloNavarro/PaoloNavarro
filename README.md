@@ -63,47 +63,6 @@ Software de inventariado desarrollado en laravel, desarrollo apartados como el a
             </div>
         </div>
 
-        <!-- Primera fila, segunda columna -->
-        <div class="col-md-6">
-            <div class="icon-list-container">
-                <i class="fas fa-database"></i>
-                <ul>
-                    <li><i class="fas fa-database"></i> MySQL</li>
-                    <li><i class="fas fa-database"></i> MariaDB</li>
-                    <li><i class="fas fa-database"></i> Oracle</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <!-- Segunda fila, primera columna -->
-        <div class="col-md-6">
-            <div class="icon-list-container">
-                <i class="fa-solid fa-screwdriver-wrench"></i>
-                <ul>
-                    <li><i class="fab fa-laravel"></i> Laravel</li>
-                    <li><i class="fab fa-asymmetrik"></i> ASP.NET</li>
-                    <li><i class="fa-solid fa-leaf"></i> Spring Boot</li>
-                    <!-- Agrega más elementos según sea necesario -->
-                </ul>
-            </div>
-        </div>
-
-        <!-- Segunda fila, segunda columna -->
-        <div class="col-md-6">
-            <div class="icon-list-container">
-                <i class="fas fa-globe"></i>
-                <ul>
-                    <li><i class="fab fa-html5"></i>HTML</li>
-                    <li><i class="fab fa-css3-alt"></i> CSS</li>
-                    <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
-                    <li><i class="fa-solid fa-user-tie"></i>Scrum</li>
-                    <!-- Agrega más elementos según sea necesario -->
-                </ul>
-            </div>
-        </div>
-    </div>
 </section>
 
 ## Educación 🎓
