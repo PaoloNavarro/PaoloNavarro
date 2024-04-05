@@ -17,7 +17,7 @@ Un proyecto donde para el front-end se utiliza react. el cual consume dos api un
 
 Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.
 
-![Foto](https://i.ibb.co/4dDN8HN/1.png)
+![Foto](https://i.ibb.co/j5PfmGC/image11.png)
 
 ## Habilidades Técnicas 📃
 
