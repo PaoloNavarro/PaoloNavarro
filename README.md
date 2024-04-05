@@ -7,17 +7,17 @@ Soy un apasionado desarrollador de software con una sólida formación en progra
 ## Proyectos Destacados ✨
 
 ### [PORTAFOLIO](https://paolonavarro.github.io/Portafolio/)
-### [APIMOVI]🎥🍿
+### [APIMOVI](https://github.com/PaoloNavarro/apiMovie)🎥🍿
 
 Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
 
-
-![Foto](https://i.ibb.co/4dDN8HN/1.png)
-### [FerreteriaUnicaes]
+![Foto](https://i.ibb.co/4dDN8HN/1.png){width=50px}
+### [FerreteriaUnicaes](https://github.com/LuisVasquez23/inventario-laravel)⚒️🧰
 
 Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.
 
 ![Foto](https://i.ibb.co/j5PfmGC/image11.png)
+
 
 ## Habilidades Técnicas 📃
 
