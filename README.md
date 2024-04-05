@@ -3,7 +3,8 @@
 Soy un apasionado desarrollador de software con una sólida formación en programación. Mi enfoque es crear soluciones eficientes y efectivas para los desafíos tecnológicos. Disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
 
 ## Proyectos Destacados ✨
-
+###[PORTAFOLIO]
+https://paolonavarro.github.io/Portafolio/
 ### [APIMOVI]🎥🍿
 
 Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
