@@ -11,12 +11,17 @@ Soy un apasionado desarrollador de software con una sólida formación en progra
 
 Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
 
-![Foto](https://i.ibb.co/4dDN8HN/1.png){width=50px}
+<p align="center">
+  <img src="https://i.ibb.co/4dDN8HN/1.png" alt="Foto" width="700px">
+</p>
+
 ### [FerreteriaUnicaes](https://github.com/LuisVasquez23/inventario-laravel)⚒️🧰
 
-Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.
+Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.Se uso Laravel para crear un proyecto para invetariado de una ferreteria generica, con una amplia gama de personlizacion en el sofware
+<p align="center">
+      <img src="https://i.ibb.co/j5PfmGC/image11.png" alt="Foto" width="700px">
 
-![Foto](https://i.ibb.co/j5PfmGC/image11.png)
+</p>
 
 
 ## Habilidades Técnicas 📃
