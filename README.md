@@ -11,38 +11,13 @@ Soy un apasionado desarrollador de software con una sólida formación en progra
 
 Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
 
-<!-- Agrega el carrusel aquí -->
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://i.ibb.co/4dDN8HN/1.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="https://i.ibb.co/j5PfmGC/image11.png" class="d-block w-100" alt="...">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
 
+![Foto](https://i.ibb.co/4dDN8HN/1.png)
 ### [FerreteriaUnicaes]
 
 Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.
 
-<!-- Agrega el carrusel aquí -->
-<div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://i.ibb.co/j5PfmGC/image11.png" class="d-block w-100" alt="...">
-    </div>
-  </div>
-</div>
+![Foto](https://i.ibb.co/4dDN8HN/1.png)
 
 ## Habilidades Técnicas 📃
 
