@@ -1,57 +1,78 @@
-### Bienvenidos a mi Github 👋
+# 👋 ¡Bienvenidos a mi GitHub!
 
-## Acerca de mí 🧑‍💻
+## 🧑‍💻 Acerca de mí
 
-Soy un apasionado desarrollador de software con una sólida formación en programación. Mi enfoque es crear soluciones eficientes y efectivas para los desafíos tecnológicos. Disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
+Soy un apasionado **ingeniero en desarrollo de software** con una sólida formación en programación y un enfoque orientado a crear soluciones tecnológicas eficientes. Me encanta afrontar nuevos desafíos, aprender constantemente y mantenerme actualizado con las últimas tecnologías del desarrollo web y backend.
 
-## Proyectos Destacados ✨
+🚀 Actualmente enfocado en mejorar mis habilidades en **Next.js**, **TypeScript** y **WordPress**.
 
-### [PORTAFOLIO](https://paolonavarro.github.io/Portafolio/)
-### [APIMOVI](https://github.com/PaoloNavarro/apiMovie)🎥🍿
+## ✨ Proyectos Destacados
 
-Un proyecto donde para el front-end se utiliza react. el cual consume dos api una publica que provee la informacion y una local donde se almacena la informacion esta contruida con laravel.
+### 🔗 [Mi Nuevo Portafolio](https://www.paolodevs.com/)
+
+Mi sitio web personal donde muestro mis proyectos, experiencia, y más sobre mi carrera como ingeniero.
+
+---
+
+### 🎥🍿 [APIMOVI](https://github.com/PaoloNavarro/apiMovie)
+
+Una aplicación que consume dos APIs:  
+- Una API pública para obtener información de películas.  
+- Una API local creada con **Laravel** para gestionar y almacenar información.
+
+El front-end está desarrollado con **React**.
 
 <p align="center">
-  <img src="https://i.ibb.co/4dDN8HN/1.png" alt="Foto" width="700px">
+  <img src="https://i.ibb.co/4dDN8HN/1.png" alt="APIMOVI" width="700px">
 </p>
 
-### [FerreteriaUnicaes](https://github.com/LuisVasquez23/inventario-laravel)⚒️🧰
+---
 
-Software de inventariado desarrollado en laravel, desarrollo apartados como el apartado de compras y ventas.Se uso Laravel para crear un proyecto para invetariado de una ferreteria generica, con una amplia gama de personlizacion en el sofware
+### ⚒️🧰 [FerreteriaUnicaes](https://github.com/LuisVasquez23/inventario-laravel)
+
+Sistema de inventariado para ferreterías desarrollado con **Laravel**.  
+Contribuí en módulos de compras y ventas, y en la personalización del sistema.
+
 <p align="center">
-      <img src="https://i.ibb.co/j5PfmGC/image11.png" alt="Foto" width="700px">
-
+  <img src="https://i.ibb.co/j5PfmGC/image11.png" alt="FerreteriaUnicaes" width="700px">
 </p>
 
+---
 
-## Habilidades Técnicas 📃
+## 🛠️ Habilidades Técnicas
 
-<section id="skills">
-    <h2>Habilidades</h2>
-    <div class="row">
-        <!-- Primera fila, primera columna -->
-        <div class="col-md-6">
-            <div class="icon-list-container">
-                <i class="fas fa-code"></i>
-                <ul>
-                    <li><i class="fab fa-php"></i> PHP</li>
-                    <li><i class="fab fa-java"></i> Java</li>
-                    <li><i class="fab fa-python"></i> Python</li>
-                    <li><i class="fa-solid fa-hashtag"></i> C#</li>
-                    <li><i class="fab fa-js"></i> JavaScript</li>
-                </ul>
-            </div>
-        </div>
+- **Lenguajes de Programación:**
+  - PHP
+  - Java
+  - Python
+  - C#
+  - JavaScript
+  - TypeScript
 
-</section>
+- **Frameworks y Herramientas:**
+  - Laravel
+  - React
+  - Next.js
+  - WordPress
+  - MySQL
+  - Git & GitHub
 
-## Educación 🎓
+---
 
-### [Universidad Católica de El Salvador] - [Ingeniería en Desarrollo de Software]
+## 🎓 Educación
 
-- 2020-2024.
+**Universidad Católica de El Salvador**  
+*Ingeniería en Desarrollo de Software*  
+📅 2020 - 2024
 
-## Contacto 📞
+---
 
-- Correo electrónico: [navarropaolo2020@gmail.com]
-- LinkedIn: [www.linkedin.com/in/paolo-isaac-navarro-rosales-2024nr]
+## 📞 Contacto
+
+- 📧 Correo: [navarropaolo2020@gmail.com](mailto:navarropaolo2020@gmail.com)  
+- 💼 LinkedIn: [Paolo Isaac Navarro Rosales](https://www.linkedin.com/in/paolo-isaac-navarro-rosales-2024nr)  
+- 🌐 Portafolio: [www.paolodevs.com](https://www.paolodevs.com/)
+
+---
+
+> *Gracias por visitar mi perfil. Siempre estoy abierto a nuevas oportunidades y colaboraciones.*
